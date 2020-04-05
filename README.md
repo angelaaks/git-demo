@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum
-xmyafafdg
-aajfdjafa
+##Website contents
 
-the last samurai
+1.index.html
